@@ -287,7 +287,7 @@
 }
 
 .theme-dark .placeholder_dec8c7::before {
-  content: "Oblivion awaits, are you ready?";
+  content: "One message can change it all. Oblivion awaits, are you ready?";
   color: rgba(255, 255, 255, 0.2);
   font-family: "Poppins";
   font-size: 13px;
