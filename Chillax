@@ -112,7 +112,7 @@
 
 /*bd editor titlebar*/
 .theme-dark .floating-window-titlebar {
-  background-color: rgba(0, 0, 0, 0.575);
+  background-color: rgba(0, 0, 0, 0.0);
   backdrop-filter: blur(2px);
 }
 
