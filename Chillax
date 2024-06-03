@@ -80,7 +80,7 @@
 /*small profile modal*/
 .theme-dark .userPopout-2j1gM4 {
   background-color: rgba(0, 0, 0, 0.4);
-  backdrop-filter: blur(4px);
+  backdrop-filter: blur(0px);
 }
 
 .theme-dark .footer-3naVBw {
