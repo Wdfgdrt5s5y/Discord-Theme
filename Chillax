@@ -660,7 +660,7 @@ span[class="inner-26JK4f"] > * {
 .theme-dark .monaco-editor-background,
 .theme-dark .monaco-editor .inputarea.ime-input,
 .theme-dark .monaco-editor .margin {
-  background: rgba(0, 0, 0, 0.1) !important;
+  background: rgba(0, 0, 0, 0.0) !important;
   backdrop-filter: blur(5px);
 }
 
